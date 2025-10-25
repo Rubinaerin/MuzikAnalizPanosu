@@ -27,16 +27,16 @@ Projenin Python bağımlılıklarını yüklemek için sanal ortamınızı aktif
 source venv/bin/activate
 ```
 
-2. Bağımlılıkları Yükleme
+### 2. Bağımlılıkları Yükleme
 Gerekli tüm Python kütüphanelerini (streamlit, pandas, plotly, numpy) yükleyin.
 
 ```bash
 pip install -r requirements.txt
 ```
-3. Veri Dosyasını Kontrol Etme
+### 3. Veri Dosyasını Kontrol Etme
 Uygulamanın düzgün çalışması için clean_data_final.csv dosyasının noktalı virgül (;) ile ayrılmış ve projenin ana dizininde bulunduğundan emin olun.
 
-4. Uygulamayı Başlatma
+### 4. Uygulamayı Başlatma
 Streamlit uygulamasını başlatmak için proje klasöründeyken şu komutu kullanın:
 
 ```bash
