@@ -12,7 +12,7 @@ Uygulamanın ana sayfasından ve temel analiz çıktılarından görüntüler:
 | :---: | :---: |
 | ![Ana Pano Görünümü](Ekran%20Resmi%202025-10-25%2014.15.40.png) | ![Filtrelenmiş Veri Önizlemesi](Ekran%20Resmi%202025-10-25%2014.17.09.png) |
 | Seçilen Özelliklerin Dağılımı (Histogram) | Proje Klasör Yapısı |
-| ![Seçilen Özelliklerin Dağılımı](Ekran%20Resmi%202025-10-25%2014.16.16.png) | ![Proje Klasör Yapısı](Ekran%20Resmi%202025-10-25%2013.41.01.png) |
+| ![Seçilen Özelliklerin Dağılımı](Ekran%20Resmi%202025-10-25%2014.16.16.png) | ![Proje Klasör Yapısı](Ekran%20Resmi%202025-10-25%2014.16.40.png) |
 
 ## 🛠️ Kurulum ve Çalıştırma
 
